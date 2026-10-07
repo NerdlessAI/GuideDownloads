@@ -1,6 +1,6 @@
-# Nerdless AI downloads
+# NerdlessAI downloads
 
-Free downloads from the [Nerdless AI](https://www.youtube.com/@NerdlessAI) videos on YouTube.
+Free downloads from the [NerdlessAI](https://www.youtube.com/@NerdlessAI) videos on YouTube.
 Every video has one, numbered in order: n1, n2, n3.
 
 **Find yours.** The video tells you its number. Search this page for it, then tap the file.
